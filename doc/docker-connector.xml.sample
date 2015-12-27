@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(docker:greet) -->
+    <docker:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(docker:greet) -->
